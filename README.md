@@ -32,7 +32,7 @@
       </div>
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/ZOfq5Jc-PYgAAAAd/sad-cement.gif" height="525" width="420">
+      <img src="https://media1.tenor.com/m/ZOfq5Jc-PYgAAAAd/sad-cement.gif" height="650" width="550">
     </td>
   </tr>
 </table>
